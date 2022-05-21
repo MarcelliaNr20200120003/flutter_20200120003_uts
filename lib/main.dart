@@ -136,7 +136,6 @@ class _HomepageState extends State<Homepage> {
                     newBook(books[1]),
                     newBook(books[2]),
                     newBook(books[3]),
-                    newBook(books[4]),
                   ],
                 ),
               )
