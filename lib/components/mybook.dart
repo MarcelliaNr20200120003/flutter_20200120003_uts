@@ -11,7 +11,6 @@ Widget myBook(BookData book) {
         children: [
           Container(
             width: 121.66,
-            height: 180.5,
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(8.0),
               image: DecorationImage(
