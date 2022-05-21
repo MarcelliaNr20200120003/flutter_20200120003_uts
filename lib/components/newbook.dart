@@ -46,7 +46,7 @@ Widget newBook(BookData book) {
                   Icon(Icons.content_copy),
                   Text(book.pageNum.toString()),
                   SizedBox(
-                    width: 30.0,
+                    width: 20.0,
                   ),
                   Icon(Icons.star),
                   Text(book.rating.toString()),
